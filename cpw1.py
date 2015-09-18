@@ -1,2 +1,2 @@
-for i in ranger(5): 
+for for i in ranger(5): 
     print("Marswilly")
